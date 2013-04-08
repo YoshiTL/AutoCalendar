@@ -1,7 +1,7 @@
  // ==UserScript==
 //
 // @name           TL.net Automatic calendar refresher
-// @description    Refreshes Calendar every 10 Seconds
+// @description    After 15 minutes Refreshes Calendar every Minute
 // @namespace      Yoshi
 // @author         Yoshi-
 // @version        0.1
